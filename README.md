@@ -1,71 +1,118 @@
 # Hi there, I'm Abhishek! 👋
 
-Welcome to my GitHub profile!
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Abhishek%20%7C%20Data%20Scientist&fontSize=40&fontAlign=center&fontColor=ffffff)
 
-## About Me
-👋 Hi there! I'm Abhishek — a passionate Data Scientist with a deep interest in Machine Learning, Artificial Intelligence, and everything in between.
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhhiixxhek/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
+  <a href="https://x.com/awwyster" target="_blank"><img src="https://img.shields.io/badge/-Twitter-black?logo=twitter&style=for-the-badge"></a>
+  <a href="mailto:abhishek.wspace@gmail.com"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&style=for-the-badge"></a>
+  <a href="https://abhisheksportfolio-two.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-3333cc?style=for-the-badge&logo=vercel&logoColor=white"></a>
+</p>
 
-🚀 I'm currently exploring the fascinating world of multi-agent frameworks like CrewAI, AutoGen, and similar agentic architectures. I love diving into how autonomous agents can work together to solve complex problems in a coordinated, scalable way.
+---
 
-🔬 My core focus areas include:
+## 👨‍💻 About Me
 
-Building intelligent systems using ML & AI
+🎓 I'm Abhishek — a passionate **Data Scientist** with a deep love for **Machine Learning**, **AI**, and solving complex problems.
 
-Experimenting with orchestration tools for AI agents
+🧠 Currently geeking out on **multi-agent systems** like `CrewAI`, `AutoGen`, and how **autonomous agents** can work together for scalable solutions.
 
-Developing end-to-end data-driven applications
+🛠️ I'm into:
+- Building intelligent systems using ML & AI
+- Experimenting with **agent orchestration** tools
+- Developing full-stack **data-driven apps**
 
-📚 Always curious and always learning — I'm on a journey to push the boundaries of what's possible with modern AI.
+📖 Lifelong learner, pushing limits in the AI space.
+
+---
 
 ## 🔧 Skills & Technologies
-**Languages:**
-- Python, Java, SQL, C/C++, HTML, CSS, JavaScript
 
-**Frameworks & Libraries:**
-- Flask, TensorFlow, LangChain, LangGraph, CrewAI, OpenCV, Scikit-learn, Statsmodels
+### 👨‍💻 Languages:
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
+![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql)
+![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus)
+![HTML](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 
-**AI & ML:**
-- Machine Learning, Deep Learning, NLP, RAG (Retrieval-Augmented Generation), LLM fine-tuning, Ensemble Learning, Time Series Forecasting (ARIMA, LSTM)
+### 🚀 Frameworks & Libraries:
+`Flask`, `TensorFlow`, `LangChain`, `LangGraph`, `CrewAI`, `OpenCV`, `Scikit-learn`, `Statsmodels`
 
-**Tools & Platforms:**
-- Docker, Nginx, Git/GitHub, Postman, Google Colab, CI/CD (GitHub Actions), Excel, AWS EC2
+### 🤖 AI/ML Domains:
+- Supervised & Unsupervised ML
+- NLP, RAG, LLMs, Fine-Tuning
+- Time Series (ARIMA, LSTM)
+- Ensemble Learning
 
-**Databases & Vector Stores:**
-- MySQL, Pinecone, FAISS
+### 🛠️ Tools & Platforms:
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
+![Nginx](https://img.shields.io/badge/-Nginx-333?style=flat&logo=nginx)
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
+![Postman](https://img.shields.io/badge/-Postman-333?style=flat&logo=postman)
+![Colab](https://img.shields.io/badge/-Google%20Colab-333?style=flat&logo=googlecolab)
+![AWS](https://img.shields.io/badge/-AWS%20EC2-333?style=flat&logo=amazonaws)
 
-**Other Areas of Expertise:**
-- Multi-agent systems, Autonomous AI agents, Agent Orchestration (e.g., CrewAI, AutoGen)
+### 🧠 Databases & Vector Stores:
+`MySQL`, `Pinecone`, `FAISS`
+
+---
 
 ## 🌱 My Interests
-- Multi-agent Systems & Autonomous AI
-- Agent Orchestration Frameworks (e.g., CrewAI, AutoGen)
-- Advancements in Machine Learning & Deep Learning
-- Natural Language Processing and Large Language Models
-- Developing End-to-End Data-Driven Solutions
-- The broader field of Artificial Intelligence and its applications
+
+- 🤖 Multi-agent Systems & Autonomous AI
+- ⚙️ Agent Orchestration (CrewAI, AutoGen)
+- 🧠 Deep Learning & Modern ML
+- 🗣️ NLP & LLM Applications
+- 📈 Building end-to-end AI solutions
+
+---
 
 ## 🚀 Projects I'm Proud Of
-- **🔮 Stock Predictor Pro**
-  - A hybrid stock forecasting system that combines LSTM and ARIMA models to predict stock price trends with ~70% accuracy.
-  - Integrated technical indicators like EMA, SMA, RSI, and MACD for enhanced signal detection.
-  - Included a feedback loop using LLMs to auto-tune parameters, increasing reliability during live usage.
 
-- **🤖 DISHA: Conversational IIITN Chatbot**
-  - A multilingual AI chatbot built using LLM fine-tuning and RAG for real-time query resolution on the IIITN website.
-  - End-to-end solution handling data scraping, preprocessing, model training, and deployment.
-  - Delivers context-aware answers with fast response times, improving user experience significantly.
+### 🔮 Stock Predictor Pro
+> A hybrid forecasting system using **LSTM + ARIMA** to predict stock prices with ~70% accuracy.
+
+✅ Indicators used: EMA, SMA, RSI, MACD  
+🧠 Includes LLM-powered feedback loop to auto-tune parameters for live environments.
+
+---
+
+### 🤖 DISHA: Conversational IIITN Chatbot
+> A multilingual, context-aware chatbot built using **LLM + RAG**, deployed on the IIITN website.
+
+📊 Real-time scraping + preprocessing + training + deployment pipeline  
+⚡ Lightning-fast and context-relevant responses for users.
+
+---
 
 ## ✨ Fun Facts About Me
-- I don’t always test my code, but when I do, I do it in production. 😉
 
-## 📊 My GitHub Stats
-[![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhhiixxhek&show_icons=true&theme=merko&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhhiixxhek&layout=compact&theme=minimalist&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+- 🧪 I don’t always test my code…  
+  💥 But when I do, I do it in production 😉  
+- ☕ Fuel: Coffee + Curiosity  
+- 🧠 Motto: *"If it's not hard, it's not worth doing."*
 
-## 📫 How to Reach Me
-- LinkedIn: https://www.linkedin.com/in/abhhiixxhek/
-- Twitter: [@awwyster](https://x.com/awwyster)
-- Personal Website/Blog: https://abhisheksportfolio-two.vercel.app/
-- Email: abhishek.wspace@gmail.com
+---
 
-Thanks for stopping by! 😊
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhhiixxhek&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhhiixxhek&layout=compact&theme=tokyonight&hide_border=true" width="48%">
+</p>
+
+---
+
+## 📬 Reach Me
+
+📧 Email: **abhishek.wspace@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/abhhiixxhek/) | [Twitter](https://x.com/awwyster) | [Portfolio](https://abhisheksportfolio-two.vercel.app/)
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFAD&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+Let's+build+AI+that+matters.🚀" />
+</p>
