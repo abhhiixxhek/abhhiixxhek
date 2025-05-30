@@ -108,7 +108,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFAD&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Let's+build+AI+that+matters.;Follow+for+cool+AI+projects!🚀" />
-</p>
+
 
