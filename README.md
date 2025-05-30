@@ -2,12 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Abhishek%20%7C%20Data%20Scientist&fontSize=40&fontAlign=center&fontColor=ffffff)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abhhiixxhek/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
-  <a href="https://x.com/awwyster" target="_blank"><img src="https://img.shields.io/badge/-Twitter-black?logo=twitter&style=for-the-badge"></a>
-  <a href="mailto:abhishek.wspace@gmail.com"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&style=for-the-badge"></a>
-  <a href="https://abhisheksportfolio-two.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-3333cc?style=for-the-badge&logo=vercel&logoColor=white"></a>
-</p>
+
 
 ---
 
@@ -114,5 +109,6 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFAD&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+Let's+build+AI+that+matters.🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFAD&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Let's+build+AI+that+matters.;Follow+for+cool+AI+projects!🚀" />
 </p>
+
